@@ -1,0 +1,2 @@
+git fetch origin
+git checkout DEV-3--issue2
